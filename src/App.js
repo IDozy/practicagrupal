@@ -5,9 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-
-        Este es un proyecto grupal :v
-        Perú es clave 
+        Ahí mi gatito miau miau
       </div>
     </div>
   );
