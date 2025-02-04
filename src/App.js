@@ -7,6 +7,7 @@ function App() {
       <div>
 
         Este es un proyecto grupal :v
+        Perú es clave 
       </div>
     </div>
   );
