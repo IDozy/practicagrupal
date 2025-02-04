@@ -10,7 +10,8 @@ function App() {
         <h1>Dios es la piedad, Xd</h1>
       </div>
 
-      <AlexComponent />
+      <AlexComponent /> 
+      
     </div>
   );
 }
