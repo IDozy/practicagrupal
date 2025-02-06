@@ -2,6 +2,7 @@
 import Aos from "aos";
 import "./App.css";
 import AlexComponent from "./components/AlexComponent";
+import Imagenescomponent from "./components/Imagenescomponent";
 import HeaderComponent from "./components/Swswaca trabajo/HeaderComponent";
 import "aos/dist/aos.css"
     Aos.init();
@@ -20,6 +21,7 @@ function App() {
         <h1>Contáctanos</h1>
       </section>
       <AlexComponent /> 
+      <Imagenescomponent />
       
     </div>
   );
