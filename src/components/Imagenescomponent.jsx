@@ -1,5 +1,5 @@
 import React from 'react'
-import './Imagenescomponent.css'
+import './Imagenescomoponent.css'
 const Imagenescomponent = () => {
   return (
     <div className='container' style={{backgroundcolor:"red"}}> 
