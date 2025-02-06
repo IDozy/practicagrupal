@@ -1,15 +1,14 @@
 
+import Aos from "aos";
 import "./App.css";
 import AlexComponent from "./components/AlexComponent";
 import HeaderComponent from "./components/Swswaca trabajo/HeaderComponent";
+import "aos/dist/aos.css"
+    Aos.init();
 
 function App() {
   return (
     <div className="App">
-      <div>
-        Ahí mi gatito miau miau
-        <h1>Dios es la piedad, Xd</h1>
-      </div>
       <HeaderComponent/>
       <section id="inicio">
         <h1>Bienvenido a la sección de Inicio</h1>

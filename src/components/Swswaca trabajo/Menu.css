@@ -1,8 +1,9 @@
 .menu-container {
-    background-color: #f4f4f4;
-    padding: 20px;
+    background-color: turquoise;
+    padding: 15px;
+    margin: 25px;
     text-align: center;
-    border-bottom: 2px solid #ccc;
+    border: 2px solid #1900ff;
   }
   
   .menu-links {
@@ -10,13 +11,13 @@
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     gap: 20px;
   }
   
   .menu-links a {
     text-decoration: none;
-    color: #333;
+    color: #000000;
     font-size: 18px;
     padding: 10px 15px;
     border-radius: 5px;
@@ -26,4 +27,23 @@
   .menu-links a:hover {
     background-color: #007bff;
     color: #fff;
+  }
+
+  .imagen img{
+    background-color: #000000;
+    margin-right: 900px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+
+  .boton-especial a{
+    background-color: darkblue;
+    border-radius: 35% 35% 35% 35%;
+    color: white !important;
+  }
+
+  .boton-especial a:hover{
+    background-color: white;
+    color: #000000 !important;
   }
