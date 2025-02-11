@@ -14,11 +14,11 @@ const HeaderComponent = () => {
               <a href="#inicio">Inicio</a>
             </li>
             <li data-aos="fade-up">
-              <a href="#producto">Producto</a>
+              <a href="/producto">Producto</a>
             </li>
             <div className="boton-especial" >
               <li data-aos="fade-up">
-                <a href="#contacto">Contacto</a>
+                <a href="/contacto">Contacto</a>
               </li>
             </div>
           </ul>

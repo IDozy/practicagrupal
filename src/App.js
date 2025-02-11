@@ -1,21 +1,22 @@
 
 import Aos from "aos";
 import "./App.css";
-
 import Imagenescomponent from "./components/Imagenescomponent";
 import HeaderComponent from "./components/Swswaca trabajo/HeaderComponent";
 import "aos/dist/aos.css"
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./pages/Home";
     Aos.init();
 
 function App() {
   return (
-    <div className="App">
-      <HeaderComponent/>
-       
-      <Imagenescomponent />
+    <BrowserRouter>
+    <Routes>
+       <Route path="/*" element={<Home />} />
+
       
-      
-    </div>
+       </Routes>
+   </BrowserRouter>
   );
 }
 
