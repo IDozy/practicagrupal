@@ -4,9 +4,9 @@
     align-items: center;
     border: 10px solid rgb(54, 204, 142);
     padding: 10px;
-    width: 200px;
-    .image {
-        width: 200px;
+    
+    image {
+        width: 150px;
         height: auto;
         margin-right: 50px;
       }
