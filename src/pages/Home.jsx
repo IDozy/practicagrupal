@@ -5,7 +5,7 @@ import Imagenescomponent from "../components/Imagenescomponent";
 const Home = () => {
   return (
     <div>
-      <HeaderComponent />
+      <HeaderComponent/>
       <Imagenescomponent />
     </div>
   );

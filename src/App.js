@@ -6,6 +6,7 @@ import HeaderComponent from "./components/Swswaca trabajo/HeaderComponent";
 import "aos/dist/aos.css"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
+import Page from "./pages/Page";
     Aos.init();
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
     <BrowserRouter>
     <Routes>
        <Route path="/*" element={<Home />} />
+       <Route path="/producto*" element={<Page />} />
+
 
       
        </Routes>

@@ -11,7 +11,7 @@ const HeaderComponent = () => {
             </img>
           </div>
             <li data-aos="fade-up">
-              <a href="#inicio">Inicio</a>
+              <a href="/">Inicio</a>
             </li>
             <li data-aos="fade-up">
               <a href="/producto">Producto</a>
