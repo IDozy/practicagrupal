@@ -1,14 +1,14 @@
 .container {
-  margin-left:35%; ;
+  margin-left:55%; ;
     display: flex;
     align-items: center;
-    border: 2px solid rgb(54, 204, 142);
+    border: 5px solid rgb(54, 204, 142);
     padding: 10px;
     width: 300px;
     img {
         width: 100px;
         height: auto;
-        margin-right: 10px;
+        margin-right: 50px;
       }
       
       .text {
