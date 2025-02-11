@@ -4,10 +4,10 @@
     align-items: center;
     border: 10px solid rgb(54, 204, 142);
     padding: 10px;
-    margin-right: 10%;
+    margin-right: 5%;
     image {
         width: 150px;
-        height: auto;
+        height: auto; 
         margin-right: 50px;
       }
       
