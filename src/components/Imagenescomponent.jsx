@@ -9,7 +9,7 @@ const Imagenescomponent = () => {
      data-aos-duration="2000" src="https://static.vecteezy.com/system/resources/thumbnails/009/273/280/small/concept-of-loneliness-and-disappointment-in-love-sad-man-sitting-element-of-the-picture-is-decorated-by-nasa-free-photo.jpg" alt="imagen" />
       </div>
 
-      <div data-aos="zoom-in-left"><p>className="text" Desde el Horizonte se veía aquellos jinetes que galopaban hacía su destino con intenciones de saquear las aldeas cercanas de aquello valles cálidos y tranquilos ,un joven sin poder hacer nada para salvar a sus seres queridos miraba hacía la Luna llena esperando sentado a que todo esto terminara.</p></div>
+      <div data-aos="zoom-in-left"><p> Desde el Horizonte se veía aquellos jinetes que galopaban hacía su destino con intenciones de saquear las aldeas cercanas de aquello valles cálidos y tranquilos ,un joven sin poder hacer nada para salvar a sus seres queridos miraba hacía la Luna llena esperando sentado a que todo esto terminara.</p></div>
 
     </div>
     
