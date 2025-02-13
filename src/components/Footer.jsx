@@ -2,7 +2,7 @@ import React from 'react'
 import "../Footer.css";
 const Footer = () => {
   return (
-    <footer className="Footer">
+    <footer className="footer">
     <p>&copy; {new Date().getFullYear()} mi componente. Todos los derechos reservados.</p>
     <div className="social-icons">
         <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
