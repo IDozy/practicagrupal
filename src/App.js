@@ -7,6 +7,7 @@ import "aos/dist/aos.css"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Page from "./pages/Page";
+import Contacto from "./pages/Contacto";
     Aos.init();
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
     <Routes>
        <Route path="/*" element={<Home />} />
        <Route path="/producto*" element={<Page />} />
-
+       <Route path="/contacto*" element={<Contacto />} />
 
       
        </Routes>

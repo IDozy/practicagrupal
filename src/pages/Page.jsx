@@ -20,7 +20,8 @@ const Page = () => {
         <img src="/p5.PNG" alt="Imagen 5" style={{ width: "190px", height: "270px" }} />
         <img src="/p6.PNG" alt="Imagen 6" style={{ width: "190px", height: "270px" }} />
       </div>
-
+      <div>
+      </div>
 
     </>
 
