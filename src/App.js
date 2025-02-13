@@ -5,6 +5,9 @@ import Imagenescomponent from "./components/Imagenescomponent";
 import HeaderComponent from "./components/Swswaca trabajo/HeaderComponent";
 import "aos/dist/aos.css"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
 import Home from "./pages/Home";
 import Page from "./pages/Page";
 import Contacto from "./pages/Contacto";
